@@ -1,8 +1,8 @@
 # TestCases
-###Below are some test case samples that I wrote while working on previous projects.
----------------------------------------------------------------------------------------------------------------------------------------------------
+<sub>Below are some test case samples that I wrote while working on previous projects.</sub>
 
-##1. Login testcases
+
+### 1. Login testcases
 1. **Title**
    Test login with correct credentials
    
@@ -83,7 +83,7 @@
    User: test
    Pass: 123
 
-##2. Searchbar testcase
+### 2. Searchbar testcase
 1. **Title**
    Test searchbar with existing product
    
